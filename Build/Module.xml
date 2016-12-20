@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Module>
-  <Name>ffmpeg</Name>
+  <Name>ffmpeg.nuget</Name>
   <Authors>Redpoint Games</Authors>
   <SemanticVersion>1.0.0</SemanticVersion>
   <Description>This is a version of ffmpeg packged into a NuGet / Protobuild package for other consumers.</Description>
